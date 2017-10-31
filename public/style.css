@@ -1,0 +1,33 @@
+/* styles */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 25px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 48px;
+  color: pink;
+  text-align: center;
+}
+
+h3 {
+  color: lightseagreen;
+  margin-bottom: 5px;
+}
+
+footer {
+  margin-top: 50px;
+  padding-top: 25px;
+  border-top: 1px solid lightgrey;
+}
+
+mark {
+  color: red;
+  background: #ddd;
+}
