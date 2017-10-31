@@ -1,0 +1,23 @@
+{
+  "name": "URL Shortner Microservice",
+  "version": "0.0.1",
+  "description": "Returns shortned URLs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "body-parser": "^1.18.2",
+    "nunjucks": "^3.0.1",
+    "mongodb": "^2.2.33",
+    "synchronize": "^2.0.0",
+    "shortid": "^2.2.8",
+    "valid-url": "^1.0.9"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "license": "MIT"
+}
